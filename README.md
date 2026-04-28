@@ -44,4 +44,5 @@ Mobile game released on Android.
 
 [![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:axel.berin.2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/axel-berin-190388242/)
+
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://axelberin.itch.io/)
