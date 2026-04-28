@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi! I'm Axel 👋
 
-<!--
-**axelberin/axelberin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer from Argentina 🇦🇷
 
-Here are some ideas to get you started:
+## Tech Stack
+- Unity
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Magic is Dead
+Psychological horror game in Unity.
+![Magic is dead](https://axelberin.itch.io/magic-is-dead)
+
+### Multiverse Tap Ball
+Mobile game released on Android.
+![Multiverse Tap Ball](https://play.google.com/store/apps/details?id=com.ABKGamesStudio)
+
+### Slide Small Ball
+Mobile game released on Android.
+![Slide Small Ball](https://play.google.com/store/apps/details?id=com.abkgames.slideball)
+
+## Tools & Languages
+
+![Unity](https://skillicons.dev/icons?i=unity)
+![C#](https://skillicons.dev/icons?i=cs)
+![android](https://skillicons.dev/icons?i=android)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=axelberin&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=axelberin&theme=tokyonight)
+
+## Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:axel.berin.2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/axel-berin-190388242/)
