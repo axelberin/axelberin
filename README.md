@@ -28,6 +28,8 @@ Mobile game released on Android.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.abkgames.slideball)
 
+## Status
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=axelberin&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=axelberin&theme=tokyonight)
