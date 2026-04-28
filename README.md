@@ -8,21 +8,33 @@ Currently developing indie games and experimenting with game design.
 
 ### Magic is Dead
 
-Psychological horror game in Unity.
+First-person psychological horror game developed in Unity.
+
+The player takes the role of an old mage who wakes up in a ruined castle after a catastrophic magical event. With his powers lost and memories fragmented, he must explore the remains of the kingdom, uncover the truth behind the disaster, and recover fragments of his abilities.
+
+The game focuses on atmosphere, environmental storytelling and puzzle-driven exploration. Each puzzle is designed to reinforce the narrative and tension, creating a progression where gameplay mechanics and story are tightly connected.
 
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://axelberin.itch.io/magic-is-dead)
 
 
 ### Multiverse Tap Ball
 
-Mobile game released on Android.
+Hybrid-casual mobile game released on Android.
+
+Multiverse Tap Ball is an arcade-style game where players guide a ball through different worlds while avoiding obstacles and mastering increasingly challenging mechanics. The game focuses on short, addictive gameplay sessions and progressively introduces new challenges across multiple universes.
+
+Designed for mobile platforms, the project explores scalable game systems, replayability mechanics and progression systems to support long-term player engagement.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.ABKGamesStudio)
 
 
 ### Slide Small Ball
 
-Mobile game released on Android.
+Endless mobile arcade game developed in Unity.
+
+In Slide Small Ball, players control a ball navigating through an endless level filled with dynamically generated obstacles. The game features procedural obstacle spawning, difficulty progression systems and lightweight gameplay designed for quick mobile sessions.
+
+The project focuses on modular gameplay systems, reusable architecture and efficient obstacle management through object pooling.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.abkgames.slideball)
 
