@@ -2,10 +2,6 @@
 
 Game Developer from Argentina 🇦🇷
 
-## Tech Stack
-- Unity
-- C#
-
 ## Relevant Projects
 
 ### Magic is Dead
