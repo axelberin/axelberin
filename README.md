@@ -9,15 +9,15 @@ Game Developer from Argentina 🇦🇷
 ## Projects
 ### Magic is Dead
 Psychological horror game in Unity.
-![Magic is dead](https://axelberin.itch.io/magic-is-dead)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://axelberin.itch.io/magic-is-dead)
 
 ### Multiverse Tap Ball
 Mobile game released on Android.
-![Multiverse Tap Ball](https://play.google.com/store/apps/details?id=com.ABKGamesStudio)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.ABKGamesStudio)
 
 ### Slide Small Ball
 Mobile game released on Android.
-![Slide Small Ball](https://play.google.com/store/apps/details?id=com.abkgames.slideball)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.abkgames.slideball)
 
 ## Tools & Languages
 
@@ -33,3 +33,4 @@ Mobile game released on Android.
 
 [![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:axel.berin.2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/axel-berin-190388242/)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://axelberin.itch.io/)
