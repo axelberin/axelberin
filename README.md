@@ -37,8 +37,6 @@ My work includes:
 | Gameplay modes and a skin shop. Unity LevelPlay and IAP integration, Firebase Authentication and Cloud Firestore. | Event-driven round flow, weighted role selection and category-based words. Versioned JSON settings with backup recovery. | Obstacle spawning with object pooling, prewarming and configurable difficulty profiles. Mobile controls and UI. |
 | [Google Play](https://play.google.com/store/apps/details?id=com.ABKGamesStudio) | [Google Play](https://play.google.com/store/apps/details?id=com.abkgames.definitiveimpostor) | [Google Play](https://play.google.com/store/apps/details?id=com.abkgames.slideball) |
 
-Slide Draw was previously titled Slide Small Ball.
-
 ## Selected systems
 
 Examples of systems I've implemented across my Unity projects:
