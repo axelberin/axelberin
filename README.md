@@ -9,7 +9,7 @@ Buenos Aires, Argentina · Spanish · English B2
 
 [Portfolio](https://www.weareabk.com/games) · [LinkedIn](https://www.linkedin.com/in/axel-berin-190388242/) · [Email](mailto:axel.berin.2000@gmail.com) · [itch.io](https://axelberin.itch.io/)
 
-[Projects](#selected-projects) · [Code samples](#code-samples) · [Technical skills](#technical-skills) · [Background](#background)
+[Projects](#selected-projects) · [Selected systems](#selected-systems) · [Technical skills](#technical-skills) · [Background](#background)
 
 ## Selected projects
 
@@ -35,20 +35,20 @@ My work includes:
 | <a href="https://play.google.com/store/apps/details?id=com.ABKGamesStudio"><img src="https://play-lh.googleusercontent.com/IkyqnutMQoqqHSpchrNUGqBv3NCpjjNvi0TzTsperY-3XpxUR-bPAVwNNI5i-dzZ8j5fdEGS7pFxfblsrlO3Ilc=w240-h480" width="110" height="110" alt="Multiverse Tap Ball app icon"></a> | <a href="https://play.google.com/store/apps/details?id=com.abkgames.definitiveimpostor"><img src="https://play-lh.googleusercontent.com/t2U46aPWTSPTF3E6zOwnW2sLTGAZ98c1SA3FcUpcEbgUEj1EyhkxPXc3Ii6MRCgcZbn_f1nKyaHp-kR-53Dlcg=w240-h480" width="110" height="110" alt="Definitive Impostor app icon"></a> | <a href="https://play.google.com/store/apps/details?id=com.abkgames.slideball"><img src="https://play-lh.googleusercontent.com/y5AxZvf3DSrhLP4nQhcF5D45-O6hP-UTbKEIKRk0VwD3CgkO9fc65KDrUOgdMTZNzpkCP0OZF5oHxfBsE5J8kg=w240-h480" width="110" height="110" alt="Slide Draw app icon"></a> |
 | **Published 2025** | **Published 2026** | **Published 2025** |
 | Gameplay modes and a skin shop. Unity LevelPlay and IAP integration, Firebase Authentication and Cloud Firestore. | Event-driven round flow, weighted role selection and category-based words. Versioned JSON settings with backup recovery. | Obstacle spawning with object pooling, prewarming and configurable difficulty profiles. Mobile controls and UI. |
-| [Google Play](https://play.google.com/store/apps/details?id=com.ABKGamesStudio) · [Browse scripts](https://github.com/axelberin/TapBall/tree/main/Assets/Scripts) | [Google Play](https://play.google.com/store/apps/details?id=com.abkgames.definitiveimpostor) · [Browse scripts](https://github.com/axelberin/DefinitiveImpostor/tree/main/Assets/Scripts) | [Google Play](https://play.google.com/store/apps/details?id=com.abkgames.slideball) · [Browse scripts](https://github.com/axelberin/SlideBall/tree/main/Assets/Scripts) |
+| [Google Play](https://play.google.com/store/apps/details?id=com.ABKGamesStudio) | [Google Play](https://play.google.com/store/apps/details?id=com.abkgames.definitiveimpostor) | [Google Play](https://play.google.com/store/apps/details?id=com.abkgames.slideball) |
 
 Slide Draw was previously titled Slide Small Ball.
 
-## Code samples
+## Selected systems
 
-A few starting points for exploring my public Unity projects:
+Examples of systems I've implemented across my Unity projects:
 
-| System | What to inspect | Source |
-| :--- | :--- | :--- |
-| **Object pooling** | Prefab pools, prewarming and reuse of obstacle instances. | [ObjectPool.cs](https://github.com/axelberin/SlideBall/blob/main/Assets/Scripts/Pool/ObjectPool.cs) |
-| **Difficulty and spawning** | Configurable difficulty stages, spawn timing and obstacle lifecycle. | [ObstacleSpawner.cs](https://github.com/axelberin/SlideBall/blob/main/Assets/Scripts/Obstacles/ObstacleSpawner.cs) |
-| **Event-driven game flow** | Round and player state, role-reveal events and weighted impostor assignment. | [GameRoundManager.cs](https://github.com/axelberin/DefinitiveImpostor/blob/main/Assets/Scripts/Managers/GameRoundManager.cs) |
-| **Local persistence** | Versioned JSON settings, backup recovery and change detection. | [LocalSettingsStorage.cs](https://github.com/axelberin/DefinitiveImpostor/blob/main/Assets/Scripts/Settings/LocalSettingsStorage.cs) |
+| System | Implementation focus |
+| :--- | :--- |
+| **Object pooling** | Prefab pools, prewarming and reuse of obstacle instances. |
+| **Difficulty and spawning** | Configurable difficulty stages, spawn timing and obstacle lifecycle. |
+| **Event-driven game flow** | Round and player state, role-reveal events and weighted impostor assignment. |
+| **Local persistence** | Versioned JSON settings, backup recovery and change detection. |
 
 ## Technical skills
 
